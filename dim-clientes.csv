@@ -1,0 +1,11 @@
+CodigoCliente,NombreCliente,Segmento,Ciudad
+CLI001,Supermercado Éxito Medellín,Corporativo,Medellín
+CLI002,Ferretería El Progreso,Minorista,Bogotá
+CLI003,Tiendas D1 Cali,Corporativo,Cali
+CLI004,Almacenes Olímpica,Corporativo,Barranquilla
+CLI005,Juan Pérez,Consumidor Final,Bogotá
+CLI006,María Rodríguez,Consumidor Final,Medellín
+CLI007,Minimarket La Esquina,Minorista,Cartagena
+CLI008,Distribuidora del Caribe,Minorista,Barranquilla
+CLI009,Carlos Mendoza,Consumidor Final,Cali
+CLI010,Restaurante Sabor Casero,Corporativo,Medellín
